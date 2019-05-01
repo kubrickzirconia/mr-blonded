@@ -13,3 +13,11 @@ Endless: Silver
 Blonde: Yellow
 
 Asides from these accents, I've chosen to stick to a black and white theme, as a reflection of Frank's minimalism. 
+
+## font
+
+## illustrations
+
+The illustrations throughout the page are inspired by NASCAR.
+
+## quotations & headers
