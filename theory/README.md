@@ -18,3 +18,11 @@ I have chosen a simple bar chart to visualise Frank's tumblr. The X axis is chro
 Each bar is hyperlinked, so the user can click on it to be directed to that month in Frank's tumblr archive.
 
 ## key
+
+## colour
+
+Dot matrix
+
+## Car $
+
+## Song names in songs
