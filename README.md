@@ -1,9 +1,10 @@
-# mr-blonded-vis
-a visualisation of frank ocean's career: some data, some beauty
+# mr-blonded
+
+Mr Blonded is a data visualisation project seeking to express ideas pertaining to perhaps the most reclusive and aloof performer of our times. 
 
 ## Repository Organisation
 
-Please see below for a quick roadmap of how this repository has been organised.
+Please see below for a quick roadmap of the subfolders into which this repository has been organised.
 
 ### data
 
@@ -16,3 +17,7 @@ Stored in this folder are documents pertaining to data presentation, including c
 ### theory
 
 Information pertaining to hypothesis and methodology are stored here. I explain what I wanted to show and how I went about the project.
+
+### code
+
+Stored in this folder is the code used to generate the elements of this visualisation. For this project, I use D3.js, a popular Javascript library for data visualisation. 
