@@ -1,6 +1,6 @@
 # mr-blonded
 
-Mr Blonded is a data visualisation project seeking to express ideas pertaining to perhaps the most reclusive and aloof performer of our times. 
+Mr Blonded is a data visualisation project looking into perhaps the most reclusive and aloof performer of our times. 
 
 ## Repository Organisation
 
