@@ -14,7 +14,7 @@ For each datapoint, the following information is provided:
 
 ### presentation
 
-This data visualisation is available to view on [jsfiddle.net][2]:
+This data visualisation is available to view on [jsfiddle.net][1]:
 ![](https://github.com/kubrickzirconia/mr-blonded/blob/master/code/tumblr_jsfiddle.JPG)
 
 When a bar is hovered over, the colour changes to a pale grey and the user is able to click on a given bar to be directed to that month in Frank's archive. 
