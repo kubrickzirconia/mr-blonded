@@ -678,7 +678,7 @@ d3.select(this).style("cursor", "default");
       .attr('x', width / 2 + margin)
       .attr('y', height + margin * 1.4)
       .attr('text-anchor', 'middle')
-      .text("time (months)")
+      .text("time (months) sept 2010 - dec 2018")
 
     svg.append('text')
       .attr('class', 'title')
