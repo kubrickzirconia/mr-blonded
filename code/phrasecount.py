@@ -1,0 +1,5 @@
+text = str(input("Copy and paste text here:"))
+key_phrase = str(input("Key phrase to search for:"))
+counter = text.count(key_phrase)
+print("Number of occurences: ")
+print(counter)
